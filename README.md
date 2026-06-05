@@ -1,21 +1,12 @@
 # Learning Notes
 
-Welcome to my learning repository.
+Hi, I'm Yogesh.
 
-This repository contains my notes, setups, troubleshooting guides, and learning resources from:
-
-- Cybersecurity
-- Linux
-- Python
-- Git & GitHub
-- Open Source Contributions
-- AI & Machine Learning
-- Hackathons
-- Technical Tools
+This repository documents my learning journey in cybersecurity, programming, Linux, open source, AI, and hackathons.
 
 ## Repository Structure
 
-```
+```text
 learning-notes/
 ├── cybersecurity/
 ├── linux/
@@ -25,13 +16,24 @@ learning-notes/
 └── tools/
 ```
 
-## Goals
+## Current Focus Areas
 
-- Document my learning journey
+- Cybersecurity
+- Python
+- Linux
+- Open Source Contributions
+- AI & Machine Learning
+
+## Purpose
+
+- Track my learning progress
+- Document technical setups and troubleshooting
 - Build a public knowledge base
-- Track technical growth
-- Share useful resources and solutions
+- Share useful resources
+
+## Recent Notes
+
+- Corpus CLI Setup
 
 ---
-
 Maintained by Yogesh
